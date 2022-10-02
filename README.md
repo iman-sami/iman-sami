@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on ...Open Source Projects
 
 </br>
-- 📫 How to reach me: ... iman
+- 📫 How to reach me: ... Imansamifaith@gmail.com
 
 </br>
 <hr>
@@ -67,6 +67,6 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="mailto:imansamifaith@gmail.com"><img src="https://img.shields.io/badge/-pImansamifaith@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:imansamifaith@gmail.com"><img src="https://img.shields.io/badge/-Imansamifaith@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/iman9905"><img src="https://img.shields.io/badge/-imansami9905-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
