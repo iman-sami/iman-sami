@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋,I am Iman Sami! </h1>
 
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>A comp-sci undergraduate student and an aspiring software developer with good problem-solving skills, Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
 
  ## ⚡🙋‍♂️ About Me
